@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2>
   Cool Ass Theme by rsnpj!
-</h1>
+</h2>
 
 
 
