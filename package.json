@@ -1,0 +1,49 @@
+{
+  "name": "cool-ass-theme",
+  "displayName": "Cool Ass theme by rsnpj",
+  "description": "The theme which is cool af.",
+  "publisher": "rsnpj",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rsnpj/Cool-Ass-Theme-for-VSCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rsnpj/Cool-Ass-Theme-for-VSCode"
+  },
+  "bugs": {
+    "url": "https://github.com/rsnpj/Cool-Ass-Theme-for-VSCode/issues"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "Theme",
+    "Cool Theme",
+    "Roshan Parajuli",
+    "Dark Theme",
+    "Red Theme",
+    "2077",
+    "rsnpj's cool ass theme",
+    "cool ass theme",
+    "cool ass",
+    "best theme",
+    "best theme for vscode"
+  ],
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rsnpj's cool ass theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rsnpj's cool ass theme-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "3766ad44-d0bd-487d-be78-f31f1b50aff1",
+    "publisherDisplayName": "Roshan Parajuli",
+    "publisherId": "8f9364ea-7953-4008-8a78-a5822ba4e954"
+  }
+}
